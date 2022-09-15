@@ -4,8 +4,11 @@ Cool stuff in Python
 
  
 Mathematical division that rounds down to nearest integer.
+
 The floor division operator is //.
+
 For example, the expression 11 // 4 evaluates to 2 in contrast to the 2.75 returned by float true division.
+
 
 - Python3:
 ```
