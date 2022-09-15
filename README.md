@@ -12,17 +12,17 @@ For example, the expression 11 // 4 evaluates to 2 in contrast to the 2.75 retur
 
 - Python3:
 ```
-> print ( 11//4 )
-2
-> print( 11/4 )
-2.75
+print ( 11//4 )
+# 2
+print( 11/4 )
+# 2.75
 ```
 Note that (-11) // 4 is -3 because that is -2.75 rounded downward
 ```
-> print ( -11//4 )
--3 
-> print ( -11/4 )
--2.75 
+print ( -11//4 )
+# -3 
+print ( -11/4 )
+# -2.75 
 ```
 
 - Python2:
@@ -38,3 +38,11 @@ Note that (-11) // 4 is -3 because that is -2.75 rounded downward
 -3 
 ```
 
+
+# Combined multiply and assignment
+```
+somevar = '*' 
+somevar *= 33
+print(somevar)
+# *********************************
+```
