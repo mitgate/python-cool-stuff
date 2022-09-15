@@ -1,6 +1,6 @@
 # python-cool-stuff
 - [x] Cool stuff in Python
-- [x] You can test it in: https://www.programiz.com/python-programming/online-compiler/
+- [x] You can test it in: https://ideone.com/l/python-3
 - [x] The results are commented for you to copy and paste in your preferred interpreter
 - [x] Yes, you can contribute with more ideas
 
