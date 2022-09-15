@@ -9,7 +9,7 @@ For example, the expression 11 // 4 evaluates to 2 in contrast to the 2.75 retur
 
 - Python3:
 > print ( 11//4 )
-2
+> 2
 > print( 11/4 )
 2.75
 
