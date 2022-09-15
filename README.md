@@ -48,3 +48,22 @@ somevar *= 33
 print(somevar)
 # *********************************
 ```
+
+
+# Some things Under the hood
+
+The *= always calls __imul__ on the left hand operand :
+
+```
+product = [1] 
+product *= 5
+print ( product )
+# [1, 1, 1, 1, 1]
+```
+is equivalent to :
+```
+product = [1] 
+product.__imul__(5)
+print ( product )
+# [1, 1, 1, 1, 1]
+```
