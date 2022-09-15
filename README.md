@@ -1,6 +1,8 @@
 # python-cool-stuff
 - [x] Cool stuff in Python
 - [x] You can test it in: https://www.programiz.com/python-programming/online-compiler/
+- [x] The results are commented for you to copy and paste in your preferred interpreter
+- [x] Yes, you can contribute with more ideas
 
  
 # Mathematical division that rounds down to nearest integer.
@@ -27,14 +29,14 @@ print ( -11/4 )
 
 - Python2:
 ```
-> print ( 11//4 )
-2 
-> print ( 11/4 )
-2 
+print ( 11//4 )
+# 2 
+print ( 11/4 )
+# 2 
 
-> print ( -11//4 )
--3 
-> print ( -11/4 )
+print ( -11//4 )
+# -3 
+# print ( -11/4 )
 -3 
 ```
 
