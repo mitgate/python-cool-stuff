@@ -2,7 +2,7 @@
 - [x] Cool stuff in Python
 - [x] You can test it in: https://paiza.io/en/projects/new?language=python3
 - [x] The results are commented for you to copy and paste in your preferred interpreter
-- [x] Yes, you can contribute with more ideas
+- [x] Yes, you can contribute with more tricks
 
  
 # Mathematical division that rounds down to nearest integer.
