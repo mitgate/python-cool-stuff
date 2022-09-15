@@ -1,5 +1,5 @@
 # python-cool-stuff
-Cool stuff in Python
+- [x] Cool stuff in Python
 
 
  
