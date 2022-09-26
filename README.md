@@ -67,7 +67,7 @@ product.__imul__(5)
 print ( product )
 # [1, 1, 1, 1, 1]
 ```
-# Tuple unpagking
+# Tuple unpacking
 
 Tuple unpacking allows you to just pass a tuple or list to a function that expects several positional arguments;
 these then get unpacked accordingly. 
