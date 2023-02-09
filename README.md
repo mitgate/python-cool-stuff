@@ -102,7 +102,7 @@ from decimal import *
 print ( Decimal('0.3') + Decimal('0.3') + Decimal('0.3') == Decimal('0.9') ) 
 # True
 
-print (float('0.3') + float('0.3') + float('0.3') == float('0.9') )
+print ( float('0.3') + float('0.3') + float('0.3') == float('0.9') )
 # False
 ```
 
