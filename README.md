@@ -97,7 +97,12 @@ Different way to Round comparing Decimal to Float
 For example:
 - Python3:
 ```
-Decimal('0.3') + Decimal('0.3') + Decimal('0.3') == Decimal('0.9') # True
+from decimal import *
 
-float('0.3') + float('0.3') + float('0.3') == float('0.9') # False
+print ( Decimal('0.3') + Decimal('0.3') + Decimal('0.3') == Decimal('0.9') ) 
+# True
+
+print (float('0.3') + float('0.3') + float('0.3') == float('0.9') )
+# False
+```
 
