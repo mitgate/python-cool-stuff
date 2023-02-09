@@ -88,3 +88,16 @@ print([1, 2, 3, 4])
 # [1, 2, 3, 4]
 ```
 
+
+
+# Auto Rounding
+
+Different way to Round comparing Decimal to Float
+
+For example:
+- Python3:
+```
+Decimal('0.3') + Decimal('0.3') + Decimal('0.3') == Decimal('0.9') # True
+
+float('0.3') + float('0.3') + float('0.3') == float('0.9') # False
+
